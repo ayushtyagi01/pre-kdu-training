@@ -1,5 +1,5 @@
 import java.util.*;
-class Java2 {
+class Java2{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         ArrayList<String> arr = new ArrayList<>();
